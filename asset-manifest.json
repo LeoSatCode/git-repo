@@ -1,0 +1,11 @@
+{
+  "files": {
+    "main.js": "/git-repo/static/js/main.ade477e6.js",
+    "static/media/gitlogo.png": "/git-repo/static/media/gitlogo.4d74fd76ac168df7723c.png",
+    "index.html": "/git-repo/index.html",
+    "main.ade477e6.js.map": "/git-repo/static/js/main.ade477e6.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.ade477e6.js"
+  ]
+}
